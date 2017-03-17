@@ -1,0 +1,10 @@
+Persona:
+ 
+Name: Josh
+Age: 21
+Occupation: Student in his senior year at University - A math Major.
+Quote: "Sherlock is my childhood hero - I want to be able to emulate his way of thinking."
+ 
+Josh is a senior at Stanford University studying Mathematics. He loves to solves problems and riddles. Josh has always been a bright person and is a very well-spoken and outgoing person. He idolizes Sherlock Holmes and is training himself to be able to solve problems in a similar manner to Mr. Holmes. 
+ 
+Experience with VR: No prior experience but is very interested in trying it out.

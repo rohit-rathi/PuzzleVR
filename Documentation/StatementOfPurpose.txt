@@ -1,0 +1,3 @@
+Statement of Purpose:
+
+Puzzler is a mobile VR application which challenges the user to solve difficult riddles and problems in a new way.

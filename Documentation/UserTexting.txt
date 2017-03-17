@@ -1,0 +1,24 @@
+Could you tell me how big you think you are in this experience?
+
+"I think I am just slightly smaller in the experience than I am in real life. I feel as if I am around 5ft 10 inches."
+
+What would you say the mood is?
+
+"I would say it is pretty erie and that I am in a dungeon. I feel like Professor Snape will come in soon."
+
+Anything you would like to look at but it's difficult to see or is not coming out visually for you?
+
+"The torches behind me are difficult to see and I have to turn my neck a lot for that. Along with the barrel." 
+
+
+Pros:
+Loved the fire effect coming from the torches. 
+
+Cons:
+Could not determine where the source for the blue light was. Also, the fact that they could not see anything beyond the two doors broke the 'magic' of being immersed. There was no ground or anything so it made it seem as if the dungeon was floating.
+
+
+To do before next iteration:
+- Add things (game objects/skybox) beyond dungeon walls so it does not seem as if there is nothing else
+- Have less torches but space them out more in the scene. No need to have them behind. Also remove the barrel behind the user.
+- Will not do anything about the blue light as it adds to the mysterious feel.
